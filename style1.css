@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(3, 3, 59);
+}
+h2,p,b{
+    color: white;
+}
+h3{
+    color: green;
+}
+a{
+    margin: 30px;
+    text-decoration: none;
+    color: red;
+}
